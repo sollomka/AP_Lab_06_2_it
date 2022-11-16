@@ -1,0 +1,3 @@
+﻿  lab_06_2.cpp
+C:\Users\Acer\source\repos\AP_Lab_06_2(it)\AP_Lab_06_2(it)\lab_06_2.cpp(13,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AP_Lab_06_2(it).vcxproj -> C:\Users\Acer\source\repos\AP_Lab_06_2(it)\Debug\AP_Lab_06_2(it).exe
